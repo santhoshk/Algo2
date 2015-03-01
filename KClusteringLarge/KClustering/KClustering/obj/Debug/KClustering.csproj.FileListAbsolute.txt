@@ -1,0 +1,10 @@
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\Code\KClustering\KClustering\KClustering\bin\Debug\KClustering.exe
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\Code\KClustering\KClustering\KClustering\bin\Debug\KClustering.pdb
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\Code\KClustering\KClustering\KClustering\obj\Debug\ResolveAssemblyReference.cache
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\Code\KClustering\KClustering\KClustering\obj\Debug\KClustering.exe
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\Code\KClustering\KClustering\KClustering\obj\Debug\KClustering.pdb
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\Code\KClusteringLarge\KClustering\KClustering\obj\Debug\KClustering.exe
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\Code\KClusteringLarge\KClustering\KClustering\obj\Debug\KClustering.pdb
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\Code\KClusteringLarge\KClustering\KClustering\bin\Debug\KClustering.exe
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\Code\KClusteringLarge\KClustering\KClustering\bin\Debug\KClustering.pdb
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\Code\KClusteringLarge\KClustering\KClustering\obj\Debug\ResolveAssemblyReference.cache

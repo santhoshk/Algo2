@@ -1,0 +1,5 @@
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\code\SchedulingWeightedCompletionTime\JobCompletionTime\JobCompletionTime\bin\Debug\JobCompletionTime.exe
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\code\SchedulingWeightedCompletionTime\JobCompletionTime\JobCompletionTime\bin\Debug\JobCompletionTime.pdb
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\code\SchedulingWeightedCompletionTime\JobCompletionTime\JobCompletionTime\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\code\SchedulingWeightedCompletionTime\JobCompletionTime\JobCompletionTime\obj\x86\Debug\JobCompletionTime.exe
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\code\SchedulingWeightedCompletionTime\JobCompletionTime\JobCompletionTime\obj\x86\Debug\JobCompletionTime.pdb

@@ -1,0 +1,5 @@
+D:\san\Algo\courses\Coursera Algorithms Part2 TimRoughGarden\Code\Tsp\Tsp\bin\Debug\Tsp.exe.config
+D:\san\Algo\courses\Coursera Algorithms Part2 TimRoughGarden\Code\Tsp\Tsp\bin\Debug\Tsp.exe
+D:\san\Algo\courses\Coursera Algorithms Part2 TimRoughGarden\Code\Tsp\Tsp\bin\Debug\Tsp.pdb
+D:\san\Algo\courses\Coursera Algorithms Part2 TimRoughGarden\Code\Tsp\Tsp\obj\Debug\Tsp.exe
+D:\san\Algo\courses\Coursera Algorithms Part2 TimRoughGarden\Code\Tsp\Tsp\obj\Debug\Tsp.pdb

@@ -1,0 +1,5 @@
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\code\PrimsMST\Prim\Prim\bin\Debug\Prim.exe
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\code\PrimsMST\Prim\Prim\bin\Debug\Prim.pdb
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\code\PrimsMST\Prim\Prim\obj\Debug\ResolveAssemblyReference.cache
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\code\PrimsMST\Prim\Prim\obj\Debug\Prim.exe
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\code\PrimsMST\Prim\Prim\obj\Debug\Prim.pdb

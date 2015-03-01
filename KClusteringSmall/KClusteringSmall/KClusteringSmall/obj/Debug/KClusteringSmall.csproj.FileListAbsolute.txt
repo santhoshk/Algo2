@@ -1,0 +1,5 @@
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\Code\KClusteringSmall\KClusteringSmall\KClusteringSmall\bin\Debug\KClusteringSmall.exe
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\Code\KClusteringSmall\KClusteringSmall\KClusteringSmall\bin\Debug\KClusteringSmall.pdb
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\Code\KClusteringSmall\KClusteringSmall\KClusteringSmall\obj\Debug\ResolveAssemblyReference.cache
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\Code\KClusteringSmall\KClusteringSmall\KClusteringSmall\obj\Debug\KClusteringSmall.exe
+D:\san\algo\courses\AlgorithmsPart2TimRoughGarden\Code\KClusteringSmall\KClusteringSmall\KClusteringSmall\obj\Debug\KClusteringSmall.pdb
